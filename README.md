@@ -99,10 +99,9 @@ Develop SQL-based analytics to generate insights related to:
 `docs/requirements.md`
 
 ---
-
 ## 📂 Repository Structure
 
-|---LICENSE # MIT License
-├── .gitignore # Git ignore rules
-└── requirements.txt # Project dependencies
+For a detailed view of the repository organization, see  
+[Docs/Repository_structure.md](Docs/Repository_structure.md)
+
 
