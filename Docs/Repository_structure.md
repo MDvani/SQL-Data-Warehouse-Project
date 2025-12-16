@@ -3,6 +3,7 @@
 The following structure represents the organization of the SQL Data Warehouse & Analytics Project.  
 It is designed to follow industry best practices for data engineering, ETL pipelines, and analytics workflows.
 
+```text
 SQL-Data-Warehouse-Project/
 │
 ├── Datasets/                           # Source datasets (ERP and CRM CSV files)
@@ -11,7 +12,7 @@ SQL-Data-Warehouse-Project/
 │   ├── ETL.png                         # ETL methods and processing overview
 │   ├── Highlevelarchitecture.png       # High-level data warehouse architecture
 │   ├── Integration_model.png           # Data integration and modeling view
-│   ├── data_flow_diagram.png            # End-to-end data flow diagram
+│   ├── data_flow_diagram.png           # End-to-end data flow diagram
 │   ├── data_catalog.md                 # Dataset catalog and metadata descriptions
 │   ├── naming_conventions.md           # Naming standards for tables, columns, and objects
 │   ├── requirements.md                 # Business and technical project requirements
@@ -26,4 +27,4 @@ SQL-Data-Warehouse-Project/
 │
 ├── README.md                           # Project overview and usage instructions
 ├── .gitignore                          # Git ignore rules
-├── LICENSE                             # License information
+└── LICENSE                             # License information
