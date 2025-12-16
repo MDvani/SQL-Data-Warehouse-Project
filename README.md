@@ -9,7 +9,8 @@ This project demonstrates an end-to-end data warehousing and analytics solution,
 
 The project follows the **Medallion Architecture**, consisting of **Bronze, Silver, and Gold layers**.
 
-![Data Architecture](docs/Highlevelarchitecture.png)
+
+![High Level Data Architecture](Docs/Highlevelarchitecture.png)
 
 ### Architecture Layers
 
@@ -100,27 +101,7 @@ Develop SQL-based analytics to generate insights related to:
 ---
 
 ## 📂 Repository Structure
-SQL-Data-Warehouse-Project/
-│
-├── datasets/ # Raw ERP and CRM datasets
-│
-├── docs/ # Documentation and diagrams
-│ ├── etl.drawio # ETL methods and techniques
-│ ├── data_architecture.drawio # Overall data architecture
-│ ├── data_catalog.md # Dataset catalog and metadata
-│ ├── data_flow.drawio # Data flow diagram
-│ ├── data_models.drawio # Star schema data models
-│ ├── naming_conventions.md # Naming standards
-│ ├── requirements.md # Project requirements
-│
-├── scripts/ # SQL scripts
-│ ├── bronze/ # Raw data ingestion
-│ ├── silver/ # Data cleansing and transformation
-│ ├── gold/ # Analytical models
-│
-├── tests/ # Data quality and validation scripts
-│
-├── README.md # Project documentation
+
 |---LICENSE # MIT License
 ├── .gitignore # Git ignore rules
 └── requirements.txt # Project dependencies
