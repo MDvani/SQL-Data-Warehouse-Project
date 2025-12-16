@@ -1,0 +1,46 @@
+# =====================================
+# Operating system files
+# =====================================
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Environment / config files
+# =====================================
+*.env
+
+# =====================================
+# SQL Server related files
+# =====================================
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# =====================================
+# Temporary and log files
+# =====================================
+*.log
+*.tmp
+
+# =====================================
+# IDE / Editor files
+# =====================================
+.vscode/
+.idea/
+
+# =====================================
+# Raw dataset files (ignore large data)
+# =====================================
+datasets/**/*.csv
+datasets/**/*.xlsx
+datasets/**/*.parquet
+
+# Keep dataset folder structure & docs
+!datasets/**/
+!datasets/README.md
+
+# =====================================
+# Documentation & diagrams
+# =====================================
+# NOTE: Do NOT ignore .png or .pdf
