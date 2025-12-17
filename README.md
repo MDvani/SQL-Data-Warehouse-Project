@@ -99,6 +99,32 @@ Develop SQL-based analytics to generate insights related to:
 `docs/requirements.md`
 
 ---
+## About Me
+
+I am an aspiring Data Analyst with a strong interest in data engineering, data warehousing, and analytics.  
+I am building hands-on projects to strengthen my skills in SQL, ETL pipelines, data modeling, and analytical reporting by following industry best practices.
+
+This repository is part of my learning and portfolio journey, where I design and implement end-to-end data solutions — from raw data ingestion to generating meaningful business insights.  
+My long-term goal is to grow into a Data Scientist / AI-ML Engineer with a solid foundation in data analytics and engineering.
+
+## Contact
+
+- **LinkedIn:** www.linkedin.com/in/durga-vani-m-4b6269240
+
+- **Email:** mdurgavani99@gmail.com
+
+---
+## License
+
+This project is licensed under the MIT License.
+
+You are free to:
+- Use the code for personal and commercial purposes
+- Modify and distribute the code
+- Include it in your own projects
+
+See the LICENSE file for more details.
+
 ## 📂 Repository Structure
 
 For a detailed view of the repository organization, see  
