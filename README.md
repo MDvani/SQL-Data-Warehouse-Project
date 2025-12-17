@@ -99,7 +99,7 @@ Develop SQL-based analytics to generate insights related to:
 `docs/requirements.md`
 
 ---
-## Repository Structure
+
 
 ## Repository Structure
 
