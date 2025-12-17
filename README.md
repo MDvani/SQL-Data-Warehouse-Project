@@ -101,7 +101,27 @@ Develop SQL-based analytics to generate insights related to:
 ---
 ## Repository Structure
 
-[View Repository Structure](docs/Repository_structure.md)
+## Repository Structure
+
+```
+sql-data-warehouse-project/
+├── datasets/
+│   ├── source_erp/
+│   └── source_crm/
+├── scripts/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+├── docs/
+│   ├── architecture/
+│   └── diagrams/
+├── Repository_structure.md
+├── README.md
+└── LICENSE
+```
+
+
+
 
 
 ## About Me
