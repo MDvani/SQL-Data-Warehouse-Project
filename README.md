@@ -101,10 +101,8 @@ Develop SQL-based analytics to generate insights related to:
 ---
 ## Repository Structure
 
-The repository follows a clear and modular structure aligned with industry best practices for data engineering and analytics.
+[View Repository Structure](docs/Repository_structure.md)
 
-📂 **Detailed structure:**  
-➡️ [View Repository Structure](Repository_structure.md)
 
 ## About Me
 
