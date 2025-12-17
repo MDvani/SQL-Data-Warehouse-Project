@@ -99,6 +99,13 @@ Develop SQL-based analytics to generate insights related to:
 `docs/requirements.md`
 
 ---
+## Repository Structure
+
+The repository follows a clear and modular structure aligned with industry best practices for data engineering and analytics.
+
+📂 **Detailed structure:**  
+➡️ [View Repository Structure](Repository_structure.md)
+
 ## About Me
 
 I am an aspiring Data Analyst with a strong interest in data engineering, data warehousing, and analytics.  
